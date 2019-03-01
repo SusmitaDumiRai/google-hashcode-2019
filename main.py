@@ -46,7 +46,7 @@ def sort_values(dict, vertical_slides=None, v_dict=None):
 def add_vertical_to_horizontal(vert_slides, v_dict, h_dict):
 
     """
-    Combines vertical wiht horizontal dictionary
+    Combines vertical with horizontal dictionary
     vertical keys are now negative.
     :param vert_slides:
     :param v_dict:
